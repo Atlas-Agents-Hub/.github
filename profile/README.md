@@ -1,5 +1,3 @@
-<img src="./atlas-agents-hub.png" width="80" height="80" alt="Atlas Agents Hub monogram">
-
 # Atlas Agents Hub
 
 Build assistants for the work you do. Our projects bring together specialist assistant kits, repeatable workflows, and starter apps for building software, researching, creating media, and organizing daily work.
