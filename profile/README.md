@@ -6,7 +6,7 @@ Atlas Agents Hub is a collection of platform-specific hubs for the Meta Muse Per
 
 ## First release · Muse Hub
 
-[Muse Hub](https://github.com/Atlas-Agents-Hub/muse-hub) is the first public release. Customize Meta Muse with 15 specialist assistant kits, working Spaces such as Muse Planner and Task Board, and 5,242 searchable skills.
+[Muse Hub](https://github.com/Atlas-Agents-Hub/muse-hub) is the first public release. Customize Meta Muse with 15 specialist assistant kits, working Spaces such as Muse Planner and Task Board, and 5,200+ searchable skills.
 
 - [Explore Muse Hub](https://atlas-agents-hub.github.io/muse-hub/) to discover Spaces and specialists.
 - [Get started](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/docs/GETTING_STARTED.md) to set up your first assistant.
