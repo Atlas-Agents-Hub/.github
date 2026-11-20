@@ -1,3 +1,5 @@
+<img src="./atlas-agents-hub.png" width="72" height="72" alt="Two angled Atlas facets in ivory and teal">
+
 # Atlas Agents Hub
 
 Build assistants for the work you do. Our projects bring together specialist assistant kits, repeatable workflows, and starter apps for building software, researching, creating media, and organizing daily work.
@@ -15,5 +17,9 @@ Build assistants for the work you do. Our projects bring together specialist ass
 ## Work with the project
 
 Read the [Muse Hub documentation](https://github.com/Atlas-Agents-Hub/muse-hub/tree/main/docs), [report a reproducible issue](https://github.com/Atlas-Agents-Hub/muse-hub/issues), or follow the [contribution guide](https://github.com/Atlas-Agents-Hub/muse-hub/blob/main/CONTRIBUTING.md).
+
+## Organization Pages
+
+<img src="./atlas-pages.png" width="36" height="36" alt="Atlas Pages mark in slate blue">
 
 The [organization Pages repository](https://github.com/Atlas-Agents-Hub/atlas-agents-hub.github.io) maintains stable redirects for earlier project URLs.
